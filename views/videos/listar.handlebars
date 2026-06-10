@@ -1,0 +1,32 @@
+<h1>Lista de Vídeos</h1>
+
+<a href="/videos/cadastrar">
+  Cadastrar novo vídeo
+</a>
+
+<hr>
+
+{{#each videos}}
+
+  <div>
+
+    <img
+      src="{{thumbnail}}"
+      width="300"
+    >
+
+    <h2>{{titulo}}</h2>
+
+    <p>Criador: {{criador}}</p>
+
+    <p>Visualizações: {{visualizacoes}}</p>
+
+    <p>Curtidas: {{curtidas}}</p>
+
+    <p>{{hashtag}}</p>
+
+    <hr>
+
+  </div>
+
+{{/each}}
