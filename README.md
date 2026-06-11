@@ -1,11 +1,26 @@
-# Lista-de-exerc-cios-do-tutorial---Matheus-A.-e-Allycia
+# Lista de Exercícios do Tutorial - Express.js e Handlebars
 
-Ler todo o tutorial e realizar os exercícios.
+Projeto desenvolvido por **Matheus Augusto** e **Allycia** para a disciplina de Desenvolvimento Web do IFPE.
+Observação: Acessar arquivos no **master**.
 
-Cada dupla entrega apenas o link do repositório do GitHub e indica os nomes da duplas. (Mandem o link e os nomes antes de começar a resolver as questões.)
+## Descrição
 
-A maioria das questões pode ser realizada em 1 projeto só.
+Este projeto reúne a resolução da lista de exercícios proposta em sala, abordando os principais conceitos de:
 
-Façam commit após resolver cada questão. (Subindo além do arquivo principal, o package.json e a pasta views com os templates).
+- Express.js
+- Rotas HTTP
+- Parâmetros de rota
+- Query Strings
+- Handlebars
+- Renderização de páginas
+- Formulários HTML
+- Método POST
+- Redirecionamento
+- Arrays e objetos
+- Sistema de cadastro e listagem de vídeos
 
-Finalizem os exercícios até a terça, 09/06/2026.
+## Tecnologias Utilizadas
+
+- Node.js
+- Express.js
+- Express Handlebars
